@@ -1,4 +1,4 @@
-module httpclient
+module github.com/ChickieDrake/httpclient
 
 go 1.14
 
